@@ -80,7 +80,7 @@ Una vez definidas las Épicas que enmarcan la estrategia del producto, a continu
 | TS-001 | Configurar Entorno de Desarrollo | Como desarrollador, quiero un script de configuración local **para empezar a trabajar rápidamente en el proyecto**. | **Happy Path**: ***Given*** un desarrollador clona el repositorio, ***When*** ejecuta el script, ***Then*** el sistema instala dependencias y configura la BD local. | EP09 |
 | TS-002 | Crear Schema de Base de Datos | Como desarrollador, quiero definir el esquema inicial de la BD **para persistir la información y soportar los módulos del sistema**. | **Happy Path**: ***Given*** migraciones definidas, ***When*** ejecuta el comando, ***Then*** el sistema crea tablas (Usuarios, Vehículos, Servicios). | EP09 |
 | TS-003 | Implementar Endpoint de Autenticación | Como desarrollador, quiero implementar el endpoint de login con token JWT **para asegurar el acceso a las APIs**. | **Happy Path**: ***Given*** un usuario envía credenciales correctas a /api/auth/login, ***When*** el sistema procesa la solicitud, ***Then*** retorna un token JWT válido. <br> **Unhappy Path**: ***Given*** un usuario envía credenciales inválidas, ***When*** el sistema las procesa, ***Then*** retorna un código 401 “Unauthorized” con el mensaje “Credenciales incorrectas”. | EP09 |
-| TS-004 | Implementar Lógica del Predictor v1 | Como desarrollador, quiero implementar la primera versión del algoritmo predictivo basado en reglas **para generar recomendaciones iniciales de mantenimiento**. | **Happy Path**: ***Given*** un vehículo con 18,000 km y pauta cada 10,000 km, ***When*** el sistema ejecuta el predictor, ***Then*** sugiere “Cambio de aceite”. | EP09 |
+| TS-004 | Implementar Lógica del Predictor | Como desarrollador, quiero implementar la primera versión del algoritmo predictivo basado en reglas **para generar recomendaciones iniciales de mantenimiento**. | **Happy Path**: ***Given*** un vehículo con 18,000 km y pauta cada 10,000 km, ***When*** el sistema ejecuta el predictor, ***Then*** sugiere “Cambio de aceite”. | EP09 |
 | TS-005 | Desplegar API en Entorno de Pruebas | Como desarrollador, quiero desplegar la API en un servidor de pruebas **para que el equipo de frontend pueda integrarla**. | **Happy Path**: ***Given*** el código en la rama develop pasa pruebas y se ejecuta el pipeline, ***When*** el sistema despliega la API, ***Then*** la nueva versión queda disponible en la URL de pruebas. | EP09 |
 
 ## 3.3. Impact Mapping
@@ -103,3 +103,43 @@ A continuación, se presentan los mapas de impacto para cada uno de nuestros seg
 ![Impact Mapping Jefe Taller](assets/33-impact-mapping-jefe-taller.jpg)
 
 ## 3.4. Product Backlog
+
+El Product Backlog organiza todas las historias priorizadas de acuerdo con el valor que generan para el negocio, siguiendo el enfoque incremental del desarrollo ágil. El orden refleja la estrategia de validar primero la propuesta de valor central (Historial + Predictor + Agenda), asegurar adopción inicial (Landing Page) y posteriormente incluir funcionalidades de soporte, reputación y técnicas.
+
+| Orden | User Story Id | Título | Descripción | Story Points |
+|-------|---------------|--------|-------------|--------------|
+| 1 | US-005 | Alta de Vehículo | **Como** conductor, **quiero** registrar mi vehículo **para** crear su garaje digital y organizar mantenimientos. | 3 |
+| 2 | US-006 | Registrar Lectura de Odómetro | **Como** conductor, **quiero** registrar el kilometraje actual **para** alimentar el predictor y recibir recomendaciones precisas. | 3 |
+| 3 | US-015 | Ver Próximo Servicio Sugerido | **Como** conductor, **quiero** que el predictor me indique mi próximo mantenimiento **para** planificar con anticipación. | 5 |
+| 4 | US-016 | Entender Recomendación | **Como** conductor, **quiero** entender por qué se recomienda un servicio **para** confiar en el predictor. | 2 |
+| 5 | US-017 | Ver Rango de Costo Estimado | **Como** conductor, **quiero** ver un rango de costo estimado **para** presupuestar mis mantenimientos. | 3 |
+| 6 | US-007 | Cargar Historial Pasado | **Como** conductor, **quiero** subir boletas antiguas **para** construir el historial inicial de mi vehículo. | 5 |
+| 7 | US-008 | Ver Timeline de Servicios | **Como** conductor, **quiero** visualizar el historial de servicios en una línea de tiempo **para** comprender su mantenimiento. | 3 |
+| 8 | US-009 | Filtrar Historial | **Como** conductor, **quiero** filtrar el historial por tipo de servicio **para** encontrar información específica. | 2 |
+| 9 | US-010 | Descargar Comprobantes | **Como** conductor, **quiero** descargar comprobantes asociados **para** tener un respaldo. | 2 |
+| 10 | US-011 | Buscar Talleres | **Como** conductor, **quiero** buscar talleres por cercanía o calificación **para** elegir la mejor opción. | 3 |
+| 11 | US-012 | Ver Perfil de Taller | **Como** conductor, **quiero** ver el perfil de un taller con reseñas **para** decidir si agendar. | 2 |
+| 12 | US-013 | Reservar Cita | **Como** conductor, **quiero** reservar un horario en un taller **para** asegurar la atención. | 5 |
+| 13 | US-014 | Reprogramar o Cancelar Cita | **Como** conductor, **quiero** reprogramar o cancelar citas **para** gestionar imprevistos. | 3 |
+| 14 | US-018 | Recibir Email de Confirmación | **Como** usuario, **quiero** recibir confirmación por email al agendar una cita **para** tener un respaldo. | 2 |
+| 15 | US-019 | Recibir Notificación de Cierre | **Como** conductor, **quiero** recibir notificación al finalizar un servicio **para** estar informado. | 2 |
+| 16 | LP-001 | Entender la Propuesta de Valor | **Como** visitante, **quiero** entender en 30 segundos qué hace SmartCare **para** decidir si registrarme. | 2 |
+| 17 | LP-002 | Ver Cómo Funciona | **Como** visitante, **quiero** ver pasos clave de uso **para** evaluar si la plataforma es para mí. | 2 |
+| 18 | LP-003 | Ver Testimonios | **Como** visitante, **quiero** leer testimonios de otros usuarios **para** confiar en la plataforma. | 1 |
+| 19 | LP-004 | Beneficios para Talleres | **Como** dueño de taller, **quiero** conocer beneficios de afiliarme **para** decidir unirme. | 2 |
+| 20 | BS-001 | Configurar Perfil de Taller | **Como** jefe de taller, **quiero** configurar el perfil público **para** atraer clientes. | 3 |
+| 21 | BS-002 | Gestionar Agenda | **Como** jefe de taller, **quiero** ver mi agenda por día/semana **para** planificar la recepción de vehículos. | 3 |
+| 22 | BS-003 | Confirmar/Rechazar Cita | **Como** jefe de taller, **quiero** confirmar o rechazar solicitudes de cita **para** mantener control. | 2 |
+| 23 | BS-004 | Check-in de Vehículo | **Como** asesor de taller, **quiero** registrar el ingreso de un vehículo **para** iniciar una OT. | 3 |
+| 24 | BS-005 | Registrar Ítems en OT | **Como** asesor de taller, **quiero** añadir ítems a una OT **para** detallar el trabajo. | 3 |
+| 25 | BS-006 | Adjuntar Evidencias a OT | **Como** asesor de taller, **quiero** adjuntar fotos en una OT **para** dar transparencia. | 2 |
+| 26 | BS-007 | Cerrar OT | **Como** asesor de taller, **quiero** cerrar una OT **para** notificar al cliente y actualizar historial. | 3 |
+| 27 | BS-008 | Ver Calificaciones | **Como** jefe de taller, **quiero** ver calificaciones y comentarios **para** mejorar la atención. | 2 |
+| 28 | BS-009 | Ver Checklist Sugerido | **Como** asesor de taller, **quiero** ver checklist sugerido por el predictor **para** preparar mejor una cita. | 3 |
+| 29 | AD-001 | Gestionar Tipos de Servicio | **Como** administrador, **quiero** crear/editar tipos de servicio **para** mantener catálogo actualizado. | 2 |
+| 30 | AD-002 | Cargar Pautas de Mantenimiento | **Como** administrador, **quiero** cargar pautas por marca/modelo **para** alimentar al predictor. | 3 |
+| 31 | TS-001 | Configurar Entorno de Desarrollo | **Como** desarrollador, **quiero** un script de configuración local **para** iniciar rápido. | 2 |
+| 32 | TS-002 | Crear Schema de Base de Datos | **Como** desarrollador, **quiero** definir el esquema inicial de BD **para** persistir información. | 3 |
+| 33 | TS-003 | Implementar Endpoint de Autenticación | **Como** desarrollador, **quiero** un endpoint de login con token JWT **para** asegurar las APIs. | 5 |
+| 34 | TS-004 | Implementar Lógica del Predictor | **Como** desarrollador, **quiero** implementar algoritmo predictivo inicial **para** generar recomendaciones. | 5 |
+| 35 | TS-005 | Desplegar API en Entorno de Pruebas | **Como** desarrollador, **quiero** desplegar la API en un servidor de pruebas **para** integración de frontend. | 3 |
