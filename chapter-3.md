@@ -11,9 +11,11 @@ Al compararlos con los escenarios actuales (*As-Is*), se identifican los cambios
 A continuación, se presentan los escenarios *To-Be* para nuestros dos segmentos objetivos principales.
 
 **To-Be Scenario: Segmento Objetivo - Conductor**
+
 ![To-Be Scenario Mapping Conductor](assets/31-to-be-scenario-mapping-conductor.jpg)
 
 **To-Be Scenario: Segmento Objetivo - Jefe/Asesor de Taller Afiliado**
+
 ![To-Be Scenario Mapping Jefe Taller](assets/31-to-be-scenario-mapping-jefe-taller.jpg)
 
 ## 3.2. User Stories 
@@ -82,4 +84,22 @@ Una vez definidas las Épicas que enmarcan la estrategia del producto, a continu
 | TS-005 | Desplegar API en Entorno de Pruebas | Como desarrollador, quiero desplegar la API en un servidor de pruebas **para que el equipo de frontend pueda integrarla**. | **Happy Path**: ***Given*** el código en la rama develop pasa pruebas y se ejecuta el pipeline, ***When*** el sistema despliega la API, ***Then*** la nueva versión queda disponible en la URL de pruebas. | EP09 |
 
 ## 3.3. Impact Mapping
+En esta sección se presenta el Impact Mapping del modelo de negocio digital de SmartCare. Esta técnica de planificación estratégica es fundamental para alinear los objetivos de negocio con las funcionalidades a desarrollar, asegurando que cada característica del producto contribuya directamente a generar un cambio de comportamiento deseado en nuestros usuarios.
+
+La estructura del mapa responde a las siguientes preguntas clave:
+- **Goal (¿Por qué?)**: El objetivo de negocio medible que queremos alcanzar. 
+- **Actor (¿Quién?)**: El User Persona que puede ayudarnos a lograr ese objetivo.
+- **Impact (¿Cómo?)**: El cambio de comportamiento que esperamos ver en el actor.
+- **Deliverable (¿Qué?)**: Las funcionalidades o características que construiremos para generar ese impacto.
+
+A continuación, se presentan los mapas de impacto para cada uno de nuestros segmentos objetivo:
+
+**Impact Map: Segmento Objetivo - Conductor**
+
+![Impact Mapping Conductor](assets/33-impact-mapping-conductor.jpg)
+
+**Impract Map: Segmento Objetivo - Jefe/Asesor de Taller Afiliado**
+
+![Impact Mapping Jefe Taller](assets/33-impact-mapping-jefe-taller.jpg)
+
 ## 3.4. Product Backlog
