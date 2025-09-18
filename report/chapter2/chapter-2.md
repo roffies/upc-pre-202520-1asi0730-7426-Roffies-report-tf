@@ -250,42 +250,6 @@ Actualmente no compara precios ni talleres, prefiere acudir siempre al mismo est
 
 **Enlace:** https://youtu.be/TZH8wQTGVig
 
-**Entrevista N°2:**
-
-**Entrevistado:** 
-
-**Sexo:** 
-
-**Edad:** 
-
-**Inicio de la Entrevista:** 
-
-**Duración de la Entrevista:** 
-
-imagen
-
-**Resumen de la Entrevista:** 
-
-**Enlace:** 
-
-**Entrevista N°3:**
-
-**Entrevistado:** 
-
-**Sexo:** 
-
-**Edad:** 
-
-**Inicio de la Entrevista:** 
-
-**Duración de la Entrevista:** 
-
-imagen
-
-**Resumen de la Entrevista:** 
-
-**Enlace:** 
-
 
 ## Entrevista para el Segmento Objetivo 2 - Talleres Mecánicos:
 
@@ -303,56 +267,21 @@ imagen
 
 <img width="2280" height="724" alt="image" src="https://github.com/user-attachments/assets/3c9a38f1-f9ca-462b-aca5-ce680179ae1f" />
 
-**Resumen de la Entrevista:** RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica general y servicios eléctricos básicos. Actualmente capta clientes principalmente por recomendaciones, ubicación y un uso limitado de redes sociales, pero reconoce la importancia de fortalecer su presencia digital. El taller enfrenta problemas de seguimiento, ya que muchos clientes no regresan por falta de recordatorios, y aún maneja cotizaciones de forma manual. Ven con interés la implementación de herramientas como agenda en línea, alertas de mantenimiento y un botón SOS para emergencias, ya que mejorarían la organización, fidelización y captación de clientes. Para afiliarse a una plataforma como Roffies consideran clave la confianza, la visibilidad y costos razonables, y estarían dispuestos a pagar una suscripción premium siempre que garantice mayor exposición, acceso a clientes verificados y beneficios adicionales como estadísticas y recordatorios automatizados
+**Resumen de la Entrevista:** 
+RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica general y servicios eléctricos básicos. Actualmente capta clientes principalmente por recomendaciones, ubicación y un uso limitado de redes sociales, pero reconoce la importancia de fortalecer su presencia digital. El taller enfrenta problemas de seguimiento, ya que muchos clientes no regresan por falta de recordatorios, y aún maneja cotizaciones de forma manual. Ven con interés la implementación de herramientas como agenda en línea, alertas de mantenimiento y un botón SOS para emergencias, ya que mejorarían la organización, fidelización y captación de clientes. Para afiliarse a una plataforma como Roffies consideran clave la confianza, la visibilidad y costos razonables, y estarían dispuestos a pagar una suscripción premium siempre que garantice mayor exposición, acceso a clientes verificados y beneficios adicionales como estadísticas y recordatorios automatizados
 
 **Enlace:** https://youtu.be/SmuCdvWBeUU
 
-**Entrevista N°2:**
-
-**Entrevistado:**
-
-**Sexo:** 
-
-**Edad:** 
-
-**Inicio de la Entrevista:** 
-
-**Duración de la Entrevista:** 
-
-imagen
-
-**Resumen de la Entrevista:** 
-
-**Enlace:** 
-
-**Entrevista N°3:**
-
-**Entrevistado:** 
-
-**Sexo:** 
-
-**Edad:** 
-
-**Inicio de la Entrevista:** 
-
-**Duración de la Entrevista:** 
-
-imagen
-
-**Resumen de la Entrevista:** 
-
-**Enlace:** 
 
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento 1: Dueños de vehículos**
-
+La entrevista con Sebastián, conductor de 21 años, evidencia un perfil de usuario que valora la confianza y transparencia en los talleres. Aunque inicialmente eligió un taller mediante Google, reconoce que su preferencia recae en talleres oficiales, ya que le transmiten mayor seguridad. Si bien no ha tenido experiencias negativas, considera fundamental que en cada mantenimiento se le explique con claridad las acciones realizadas y los repuestos utilizados. Subraya como necesidad clave la incorporación de alertas predictivas de kilometraje y reparaciones, que le permitan anticiparse a fallos y evitar gastos imprevistos. Su patrón de consumo es estable, dado que no compara precios ni cambia de taller, lo que muestra que su fidelidad está ligada a la confianza más que al costo. En casos de emergencia, recurre a la llamada directa, aunque destaca que valoraría enormemente un servicio como SmartCare por la rapidez en la asistencia en situaciones inesperadas. Esto refleja que su prioridad es un sistema que combine inmediatez, transparencia y seguridad en la atención.
 
 
 **Segmento 2: Talleres mecánicos**
 
-
-
+La entrevista con RM Automotriz revela que, pese a tener 8 años de experiencia en mecánica general y servicios eléctricos básicos, su modelo de captación de clientes sigue siendo principalmente tradicional, basado en recomendaciones, ubicación y un uso limitado de redes sociales. Esto ha generado limitaciones en fidelización, ya que muchos clientes no regresan por la falta de recordatorios y seguimiento. Además, el taller enfrenta procesos poco eficientes al seguir utilizando cotizaciones manuales, lo que repercute en tiempos muertos y poca organización. Reconocen la necesidad de digitalizarse y ven con gran interés herramientas como agenda en línea, alertas de mantenimiento y botón SOS, las cuales consideran que fortalecerían su relación con los clientes y su posicionamiento frente a la competencia. Su disposición a pagar una suscripción premium depende de que la plataforma garantice confianza, visibilidad, acceso a clientes verificados y estadísticas útiles para mejorar la gestión y fidelización de su cartera.
 
 
 ## 2.3. Needfinding
