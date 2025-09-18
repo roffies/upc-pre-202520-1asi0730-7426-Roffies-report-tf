@@ -360,7 +360,23 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 
 ### 2.3.1. User Personas
 
-User Persona del Priemer segmento objetivo:
+# User Persona del Primer segmento objetivo
+
+| **Name** | **Type** | **Age** | **Gender** | **Location** | **Vehicle** |
+|----------|----------|---------|------------|--------------|-------------|
+| Sebastián de Las Casas | Conductor Particular | 21 años | Masculino | Lima | Auto sedán |
+
+| **Goals** | **Quote** |
+|-----------|-----------|
+| - Mantener su vehículo en óptimas condiciones con chequeos cada 6 meses o 1 año. <br> - Conocer con claridad qué se hace en cada mantenimiento. <br> - Recibir asistencia rápida en emergencias. | *"Es bueno saber qué le hacen a mi carro en el mantenimiento y tener alertas cuando toca revisar algo."* |
+
+| **Background** |
+|----------------|
+| Sebastián eligió su primer taller buscando en Google, pero actualmente confía más en talleres oficiales. No suele comparar precios ni buscar varias opciones: prefiere regresar siempre al mismo taller. En caso de emergencia, llama directamente al taller más cercano. |
+
+| **Motivations** | **Frustrations** |
+|-----------------|------------------|
+| - Confianza en talleres oficiales. <br> - Alertas de mantenimiento (kilometraje, revisiones, etc.). <br> - Transparencia en servicios y precios. <br> - Rapidez en la asistencia. | - No compara precios, por lo que no sabe si paga justo. <br> - Diagnósticos poco claros en algunos casos. <br> - Falta de opciones centralizadas para revisar talleres. |
 
 
 User Persona del Segundo segmento objetivo:
@@ -368,6 +384,15 @@ User Persona del Segundo segmento objetivo:
 
 ### 2.3.2. User Task Matrix
 ## Perfil 1: Ciudadano conductor de la via pública  
+| User Task | Frequency | Importance |
+|-----------|-----------|------------|
+| Llevar el auto a chequeos cada 6 meses o 1 año | Often | High |
+| Buscar taller en Google o directorios | Sometimes | Medium |
+| Confiar en talleres oficiales de marca | Often | High |
+| No realizar comparaciones, ir siempre al mismo taller | Often | Medium |
+| Llamar a un taller en caso de emergencia | Sometimes | High |
+| Revisar qué servicios se realizaron en el mantenimiento | Sometimes | High |
+| Valorar rapidez en la asistencia y soluciones | Often | High |
 
 
 
@@ -380,7 +405,14 @@ User Persona del Segundo segmento objetivo:
 
 ### 2.3.3. User Journey Mapping
 
-User Journey Mapping del Priemer segmento objetivo:
+User Journey Mapping del Primer segmento objetivo:
+| Fase | User Goals | TouchPoints | Customer Thoughts | Experience | Ideas/Opportunities |
+|------|------------|-------------|-------------------|------------|---------------------|
+| **Salida** | Revisar el estado del vehículo periódicamente | Búsqueda en Google o contacto directo con taller | “¿Dónde llevo mi auto esta vez?” | Neutral 🙂 | Mostrar talleres cercanos con historial y reputación |
+| **Búsqueda** | Encontrar un taller confiable | Google, recomendaciones, talleres oficiales | “Confío más en los talleres oficiales” | Serenidad 😌 | Validar reputación y precios en una sola plataforma |
+| **Observación** | Conocer qué se hará en el mantenimiento | Conversación directa con el taller | “Quiero saber qué le hacen a mi auto” | Pensiveness 🤔 | Ofrecer detalle digital del servicio y repuestos usados |
+| **Evaluación** | Decidir dónde llevar el auto | Comparación (limitada) entre opciones | “Prefiero ir al mismo taller de siempre” | Indecisión 😕 | Cotizador en tiempo real para comparar precios |
+| **Selección / Uso** | Resolver problema o mantenimiento | Llamada al taller o asistencia SOS | “Necesito rapidez en la asistencia” | Serenidad 😌 | Botón SOS con asistencia inmediata y grúas disponibles |
 
 
 User Journey Mapping Segundo segmento objetivo:
@@ -390,6 +422,17 @@ User Journey Mapping Segundo segmento objetivo:
 
 Empathy Mapping del Priemer segmento objetivo:
 
+| **1. WHO are we empathizing with?** | Sebastián de Las Casas, conductor particular que busca confianza y rapidez en el mantenimiento de su auto. |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **2. What do they need to DO?** | - Recibir alertas predictivas de mantenimiento y kilometraje <br> - Conocer con claridad qué se hace en cada servicio <br> - Acceder rápido a talleres confiables |
+| **3. What do they SEE?** | - Talleres con precios diferentes y poca transparencia <br> - Mercado fragmentado (oficiales vs independientes) <br> - Diagnósticos poco claros |
+| **4. What do they SAY?** | - “Confío más en un taller oficial.” <br> - “Es bueno recibir alertas de mantenimiento y kilometraje.” <br> - “Valoro la rapidez en la asistencia si ocurre un problema.” |
+| **5. What do they DO?** | - Realiza chequeos cada 6 meses o 1 año <br> - Busca talleres en Google pero confía en oficiales <br> - Llama al taller en caso de emergencia |
+| **6. What do they HEAR?** | - Opiniones de amigos y conocidos <br> - Recomendaciones de Google <br> - Mensajes de confianza en talleres oficiales |
+| **7. What do they THINK and FEEL?** | - Necesita transparencia en los diagnósticos <br> - Siente que las alertas serían útiles para prevenir fallos <br> - Prefiere seguridad a bajo precio |
+| **PAINS** | - No siempre sabe si paga un precio justo <br> - Poca información clara de talleres <br> - Dependencia de un solo taller |
+| **GAINS** | - Rapidez en asistencia <br> - Claridad en diagnósticos <br> - Alertas predictivas para evitar averías costosas |
+
 
 Empathy Mapping del Segundo segmento objetivo:
 
@@ -398,14 +441,21 @@ Empathy Mapping del Segundo segmento objetivo:
 
 En esta sección describimos el proceso que seguimos para construir los As-Is Scenario Mapping de cada segmento objetivo. Partimos de una lluvia de ideas individual, luego revisamos en equipo las acciones reales de los usuarios, identificamos las fases clave de sus procesos.
 
+**As-Is Scenario Mapping – Conductores**
 
-**As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital**
+| **Steps** | Identificar necesidad de mantenimiento | Buscar taller | Elegir taller | Realizar mantenimiento | Revisar resultado |
+|-----------|-----------------------------------------|---------------|---------------|------------------------|------------------|
+| **Phases** | Detectar problema o revisión por tiempo/kilometraje | Buscar opciones en Google, recomendaciones o cercanía | Decidir entre taller oficial o independiente | Acudir al taller, dejar vehículo y esperar diagnóstico | Recibir el carro y evaluar el servicio |
+| **Doing** | - Nota un ruido o recibe alerta en tablero <br> - Se da cuenta que toca el chequeo por kilometraje | - Busca en Google “taller cerca de mí” <br> - Pregunta a amigos/familia <br> - Considera concesionarios oficiales | - Elige el primer taller encontrado <br> - O confía en el taller oficial que ya conoce | - Entrega su auto <br> - Escucha diagnóstico del mecánico <br> - Acepta el servicio sin mucha comparación | - Recoge el auto <br> - Paga el servicio <br> - Guarda la boleta o factura |
+| **Thinking** | “¿Será grave este problema?” <br> “¿Cuánto me costará la reparación?” | “¿Este taller será confiable?” <br> “¿Me estarán cobrando lo justo?” | “Prefiero el oficial, me da más confianza.” <br> “No tengo tiempo de comparar.” | “Espero que el trabajo esté bien hecho.” <br> “¿Están usando piezas originales?” | “¿Realmente hicieron lo que dijeron?” <br> “Espero no tener sorpresas luego.” |
+| **Feeling** | Preocupación por seguridad y costos | Duda e inseguridad por falta de transparencia | Confianza parcial (en oficiales) pero resignación en precios | Impaciencia y cierta desconfianza | Tranquilidad si no hay problemas, frustración si surgen fallos |
 
 
-**As-Is Scenario Mapping – Influencers**
+
+**As-Is Scenario Mapping – Talleres mecánicos**
 
 
-As-Is Scenario Mapping: 
+
 
 ## 2.4. Ubiquitous Language
 
