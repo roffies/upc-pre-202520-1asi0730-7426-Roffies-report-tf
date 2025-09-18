@@ -159,12 +159,20 @@ El diseño de la **Landing Page** de SmartCare tiene como objetivo principal tra
 
 ### 4.3.1. Landing Page Wireframe
 
-En esta sección se presenta el wireframe de la landing page, donde se define la disposición de los elementos principales y la jerarquía de información.
+En esta sección se presentan los wireframes de la landing page, donde se define la disposición de los elementos principales y la jerarquía de información.
 
-![Wireframe Landing](assets/landing-wireframe.png)
+![Wireframe 1](../../assets/Wireframe1.png)
+![Wireframe 2](../../assets/Wireframe2.png)
+![Wireframe 3](../../assets/Wireframe3.png)
+![Wireframe 4](../../assets/Wireframe4.png)
+![Wireframe 5](../../assets/Wireframe5.png) 
 
 ### 4.3.2. Landing Page Mock-up
 
-Aquí se muestra el mock-up de alta fidelidad diseñado en Figma, donde se aplican la paleta de colores, tipografía e iconografía definidos en las guías de estilo.
+Aquí se muestran los mock-ups de alta fidelidad diseñados en Figma, donde se aplican la paleta de colores, tipografía e iconografía definidos en las guías de estilo.
 
-![Mockup Landing](assets/landing-mockup.png) 
+![UI 1](../../assets/UI1.png)
+![UI 2](../../assets/UI2.png)
+![UI 3](../../assets/UI3.png)
+![UI 4](../../assets/UI4.png)
+![UI 5](../../assets/UI5.png)
