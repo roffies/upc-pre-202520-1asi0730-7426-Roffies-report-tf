@@ -203,9 +203,12 @@ Cuando al menos el 25 % de los conductores que utilicen la función de alertas p
 
 ## 1.3. Segmentos objetivos.
 **Conductores de vehículos particulares**
+
 Este segmento incluye a propietarios de automóviles particulares. De acuerdo con la Asociación Automotriz del Perú (AAP), en 2023 el parque automotor peruano superó los 3,5 millones de vehículos, de los cuales más del 65 % se concentran en Lima y Callao (AAP, 2023). Este crecimiento constante genera una demanda creciente de servicios de mantenimiento y reparación. Sin embargo, los conductores enfrentan problemas de informalidad en talleres, sobrecostos y ausencia de historiales de servicio digitalizados, lo que afecta la seguridad y la eficiencia del uso de sus vehículos.
 Para este grupo, Roffies ofrece beneficios como la centralización del historial de mantenimientos, alertas predictivas basadas en kilometraje y data de fabricantes, cotizaciones transparentes entre talleres y un botón de emergencia para asistencia inmediata en ruta. Estos atributos incrementan la confianza, reducen costos imprevistos y mejoran la seguridad vial en una ciudad con altos índices de congestión y accidentes.
 
+
 **Talleres mecánicos afiliados (generales y especializados)**
+
 El segundo segmento lo conforman talleres mecánicos independientes y especializados que operan en Lima Metropolitana. Según datos del Instituto Nacional de Estadística e Informática (INEI), más del 70 % de los talleres automotrices en el Perú son micro y pequeñas empresas (MYPEs), con un alto nivel de informalidad y escasa digitalización (INEI, 2022). La mayoría carece de herramientas tecnológicas para gestionar clientes, mejorar su reputación y competir en un mercado cada vez más exigente.
 Para los talleres, Roffies representa una oportunidad de transformación digital: visibilidad en un marketplace confiable, captación de clientes nuevos sin altos costos de publicidad, sistema de reputación con reseñas verificadas y herramientas para gestionar agendas y métricas de desempeño. Al integrarse en la plataforma, los talleres pueden diferenciarse de la competencia, fidelizar clientes y aumentar sus ingresos.
