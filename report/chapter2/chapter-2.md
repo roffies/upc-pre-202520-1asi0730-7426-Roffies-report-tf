@@ -231,21 +231,24 @@ La sección cubre el proceso de exploración de nuestros segmentos objetivos a t
 
 **Entrevista N°1:**
 
-**Entrevistado:** 
+**Entrevistado:** Sebastián De Las Casas  
 
-**Sexo:** 
+**Sexo:** Masculino
 
-**Edad:** 
+**Edad:** 21 años 
 
-**Inicio de la Entrevista:** 
+**Inicio de la Entrevista:** 0:00
 
-**Duración de la Entrevista:** 
+**Duración de la Entrevista:** 3:31
 
-imagen
+<img width="1801" height="783" alt="image" src="https://github.com/user-attachments/assets/5edca247-765d-427c-aaad-62900d09ad20" />
 
-**Resumen de la Entrevista:** 
+**Resumen de la Entrevista:**
+Sebastián, conductor de 21 años, realiza chequeos a su vehículo de manera periódica (cada seis meses o una vez al año). Para elegir un taller, recurrió inicialmente a Google y seleccionó el primero que encontró, aunque manifiesta mayor confianza en los talleres oficiales de marca.  
+No ha tenido malas experiencias previas, pero considera muy valioso conocer con claridad las acciones realizadas durante un mantenimiento. Asimismo, destaca la importancia de recibir **alertas predictivas sobre reparaciones y kilometraje**, ya que le permitirían anticiparse a problemas.  
+Actualmente no compara precios ni talleres, prefiere acudir siempre al mismo establecimiento por confianza. En caso de una avería inesperada, llama directamente a un taller en el momento. Finalmente, subraya que uno de los factores que más valoraría en un servicio digital como **SmartCare** sería la **rapidez en la asistencia en emergencias**.
 
-**Enlace:** 
+**Enlace:** https://youtu.be/TZH8wQTGVig
 
 **Entrevista N°2:**
 
