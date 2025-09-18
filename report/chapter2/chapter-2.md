@@ -352,7 +352,7 @@ User Persona del Segundo segmento objetivo:
 ---
 
 
-## Perfil 1: Taller Mecanico  
+## Perfil 2: Taller Mecanico  
 
 | **User Task** | **Frequency** | **Importance** |
 |---------------|---------------|----------------|
