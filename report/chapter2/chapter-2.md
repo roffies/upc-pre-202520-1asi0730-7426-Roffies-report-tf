@@ -99,60 +99,60 @@ En base al análisis competitivo y al SWOT previo, definimos un conjunto de estr
 
 **Afrontando las fortalezas de nuestros competidores**
 **Fortalezas de los competidores**
-●	Concesionarios oficiales: confianza de marca, repuestos originales y servicios certificados.
-●	Aseguradoras y apps de asistencia: cobertura 24/7 y red de grúas nacionales.
-●	Talleres independientes: precios accesibles, flexibilidad y proximidad al usuario.
+- Concesionarios oficiales: confianza de marca, repuestos originales y servicios certificados.
+- Aseguradoras y apps de asistencia: cobertura 24/7 y red de grúas nacionales.
+- Talleres independientes: precios accesibles, flexibilidad y proximidad al usuario.
 
 **Nuestras fortalezas**
-●	Historial digital unificado y accesible del vehículo.
-●	Alertas predictivas basadas en datos de fabricantes, kilometraje e historial.
-●	Cotizador en tiempo real con comparación entre talleres.
-●	Botón SOS con conexión inmediata a grúa y taller cercano.
-●	Marketplace de repuestos y servicios.
+- Historial digital unificado y accesible del vehículo.
+- Alertas predictivas basadas en datos de fabricantes, kilometraje e historial.
+- Cotizador en tiempo real con comparación entre talleres.
+- Botón SOS con conexión inmediata a grúa y taller cercano.
+- Marketplace de repuestos y servicios.
 
 **Estrategias**
-●	Diferenciación tecnológica
+- Diferenciación tecnológica
 Posicionar Roffies como la única plataforma que combina historial digital, predicción de averías y cotización instantánea.
-●	Confianza híbrida
+- Confianza híbrida
 Alianzas estratégicas con concesionarios y aseguradoras para sumar legitimidad a nuestra plataforma.
-●	Accesibilidad y conveniencia
+- Accesibilidad y conveniencia
 Garantizar que el usuario tenga más opciones, mejores precios y atención más rápida que en cualquier competidor aislado.
 
 **Tácticas**
-●	Lanzar campañas de comunicación mostrando comparativas de precios y tiempos entre Roffies vs. concesionarios.
-●	Crear un programa de “taller verificado” con insignias que validen calidad y confianza.
-●	Ofrecer descuentos exclusivos en la primera atención a través de la app.
+- Lanzar campañas de comunicación mostrando comparativas de precios y tiempos entre Roffies vs. concesionarios.
+- Crear un programa de “taller verificado” con insignias que validen calidad y confianza.
+- Ofrecer descuentos exclusivos en la primera atención a través de la app.
 
 **Afrontando las debilidades de nuestros competidores**
 **Debilidades de los competidores**
-●	Concesionarios: costos elevados y atención limitada a una sola marca.
-●	Aseguradoras: servicios enfocados en emergencias, no en mantenimientos preventivos.
-●	Talleres independientes: falta de estandarización y poca transparencia en precios.
+- Concesionarios: costos elevados y atención limitada a una sola marca.
+- Aseguradoras: servicios enfocados en emergencias, no en mantenimientos preventivos.
+- Talleres independientes: falta de estandarización y poca transparencia en precios.
 
 **Nuestras debilidades**
-●	Comunidad inicial pequeña y limitada adopción digital en talleres de Lima.
-●	Dependencia de la afiliación voluntaria de talleres.
-●	Necesidad de generar confianza en usuarios que tradicionalmente van a su “mecánico de confianza”.
+- Comunidad inicial pequeña y limitada adopción digital en talleres de Lima.
+- Dependencia de la afiliación voluntaria de talleres.
+- Necesidad de generar confianza en usuarios que tradicionalmente van a su “mecánico de confianza”.
 
 **Estrategias**
-●	Programa de adopción temprana
+- Programa de adopción temprana
 Incentivar la afiliación de talleres con planes gratuitos iniciales y beneficios en visibilidad.
-●	Educación al consumidor
+- Educación al consumidor
 Campañas de concientización sobre los riesgos de no llevar historial de mantenimiento.
 
 **Tácticas**
-●	Entregar un “certificado digital de mantenimiento” gratuito a los primeros talleres afiliados.
-●	Crear contenido educativo en redes sobre seguridad vial y mantenimiento preventivo.
-●	Organizar ferias o eventos presenciales de talleres afiliados para construir confianza en la marca.
+- Entregar un “certificado digital de mantenimiento” gratuito a los primeros talleres afiliados.
+- Crear contenido educativo en redes sobre seguridad vial y mantenimiento preventivo.
+- Organizar ferias o eventos presenciales de talleres afiliados para construir confianza en la marca.
 
 **Aprovechando las oportunidades del mercado**
 **Oportunidades detectadas**
-●	Crecimiento del parque automotor en Lima (más de 2,8 millones de vehículos).
-●	Baja digitalización de los talleres mecánicos, lo que abre espacio a soluciones tecnológicas.
-●	Tendencia global hacia la movilidad segura y los mantenimientos predictivos.
+- Crecimiento del parque automotor en Lima (más de 2,8 millones de vehículos).
+- Baja digitalización de los talleres mecánicos, lo que abre espacio a soluciones tecnológicas.
+- Tendencia global hacia la movilidad segura y los mantenimientos predictivos.
 
 **Nuestras oportunidades**
-●	Posicionarnos como el primer historial digital del vehículo en Perú.
+- Posicionarnos como el primer historial digital del vehículo en Perú.
 Convertirnos en puente entre aseguradoras, concesionarios y talleres independientes.
 
 **Estrategias**
@@ -168,13 +168,13 @@ Escalar el modelo desde Lima hacia provincias con alta densidad de vehículos (A
 - Pilotar con una aseguradora en Lima descuentos en pólizas por historial validado.
 - Crear alianzas con importadores de repuestos locales.
 - Publicar reportes anuales del estado del parque automotor como referencia de la industria.
-- 
+  
 **Mitigando las amenazas del entorno**
 **Amenazas principales**
 - Aparición de startups similares con mejor financiamiento.
 - Resistencia cultural de talleres independientes a formalizar procesos digitales.
 - Cambios regulatorios en seguros y movilidad.
-- 
+  
 **Nuestras amenazas**
 - Baja adopción inicial de la aplicación en usuarios tradicionales.
 - Dificultades para consolidar una red amplia de talleres confiables al inicio.
