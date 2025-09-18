@@ -1,5 +1,5 @@
 # Capítulo III: Requirements Specification
-En este capítulo se especifican los requisitos del MVP de **SmartCare**, definidos a partir del análisis de usuarios, entrevistas y artefactos de investigación realizados previamente. El alcance se centra en dos funcionalidades principales: la **gestión del historial digital de mantenimientos** y el **predictor de servicios y costos**, que responden directamente a las necesidades identificadas en los segmentos objetivo (conductores y dueños de talleres).  
+En este capítulo se especifican los requisitos del MVP de **SmartCare**, definidos a partir del análisis de usuarios, entrevistas y artefactos de investigación realizados previamente. El alcance se centra en dos funcionalidades principales: la gestión del historial digital de mantenimientos y el predictor de servicios y costos, que responden directamente a las necesidades identificadas en los segmentos objetivo (conductores y dueños de talleres).  
 
 Asimismo, se incluyen historias de negocio, técnicas y de soporte (Landing Page), necesarias para garantizar la operatividad, escalabilidad y valor integral del sistema.
 
@@ -41,7 +41,7 @@ Una vez definidas las Épicas que enmarcan la estrategia del producto, a continu
 
 ### Tabla de Historias de Usuario
 
-| ID | Título | Descripción | Criterios de Aceptación (Happy/Unhappy Paths) | ID Épica |
+| ID | Título | Descripción | Criterios de Aceptación | ID Épica |
 |----|--------|-------------|-----------------------------------------------|----------|
 | US-001 | Registro con Email/SSO | Como nuevo usuario, quiero crear mi cuenta usando mi email o una red social **para acceder de manera rápida y segura a la plataforma**. | **Happy Path**: ***Given*** un usuario ingresa datos válidos en el formulario de registro, ***When*** confirma su registro, ***Then*** el sistema crea la cuenta y abre sesión automáticamente. <br> **Unhappy Path**: ***Given*** un usuario intenta registrarse con un email existente, ***When*** envía el formulario, ***Then*** el sistema muestra el mensaje de error “El email ya está en uso”. | EP01 |
 | US-002 | Inicio de Sesión | Como usuario registrado, quiero iniciar sesión con mis credenciales **para acceder a mi panel personal sin inconvenientes**. | **Happy Path**: ***Given*** un usuario registrado ingresa su email y contraseña correctos, ***When*** selecciona “Iniciar Sesión”, ***Then*** el sistema lo redirige a su panel principal. <br> **Unhappy Path**: ***Given*** un usuario ingresa credenciales incorrectas, ***When*** intenta iniciar sesión, ***Then*** el sistema muestra el mensaje “Credenciales incorrectas” y no permite el acceso. | EP01 |
