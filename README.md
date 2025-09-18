@@ -1,74 +1,71 @@
 # 1ASI0730-2520-7426-G2
 
-## 5.1 Software Configuration Management
-# 5.1. Gestión de Configuración de Software
+# 5.1. Software Configuration Management
 
-A continuación se describen las decisiones y convenciones adoptadas para garantizar la consistencia durante todo el ciclo de vida del proyecto.
+A continuación, se presentan las decisiones y convenciones que permitirán mantener la consistencia durante el ciclo de vida.
 
-## 5.1.1. Configuración del Entorno de Desarrollo de Software
+## 5.1.1. Software Development Environment Configuration
+En esta sección se incluyen los links de las aplicaciones y productos de software utilizados durante el ciclo del proyecto **Influmatch**, en los programas que se usaron para colaborar en el desarrollo del producto digital. Para ello se clasifican en las siguientes secciones:
 
-Se incluyen los enlaces a las aplicaciones y productos de software utilizados en el desarrollo de **Influmatch**, así como las herramientas empleadas para la colaboración del equipo.
+## 5.1.2. Source Code Management
 
----
+### Project Management
+Es la disciplina encargada de la gestión de los proyectos, la cual tiene como objetivo principal mejorar los procesos y su entorno para alcanzar los resultados esperados.  
+En el ciclo digital del proyecto se implementará un producto software con un modelo SaaS que se ejecutará a través de un navegador, sin embargo, no se creará una versión de aplicación móvil.
 
-## 5.1.2. Gestión de Código Fuente y del Proyecto
+### Requirements Management
+Es el proceso de garantizar que una organización documente, verifique y satisfaga las necesidades y expectativas de sus clientes con las partes interesadas internas o externas.  
+- **Pivotal Tracker**: Se usó esta herramienta porque organiza bien las user stories y ayuda a mantener el avance del proyecto claro y ordenado.  
+  [https://www.pivotaltracker.com/](https://www.pivotaltracker.com/)
 
-### Gestión de Proyectos
-- Disciplina para planificar, organizar y supervisar proyectos, optimizando procesos para lograr los resultados esperados.
-- **Modelo SaaS**: La aplicación se ejecuta desde un navegador web, sin versión móvil.
-
-### Gestión de Requerimientos
-- Documenta, verifica y satisface las necesidades y expectativas de clientes y partes interesadas.
-- **Pivotal Tracker**: Organiza *user stories* y mantiene el avance del proyecto claro.
-  - [https://www.pivotaltracker.com/](https://www.pivotaltracker.com/)
-
-### Diseño UX/UI del Producto
-- **Uxpressia**: User Persona, Empathy Maps, Journey Maps, Impact Maps.  
-  [https://uxpressia.com/](https://uxpressia.com/)
-- **Miro**: As-Is y To-Be Scenario Maps.  
-  [https://miro.com/](https://miro.com/)
-- **Figma**: Wireframes, Mock-ups y Prototypes de Landing Page y Web App.  
-  [https://www.figma.com/](https://www.figma.com/)
-- **Lucidchart**: Wireflows y User Flows.  
+### Product UX/UI Design
+Estas herramientas permiten desarrollar el modelo de nuestro producto de manera digital y de forma parte de la vida del consumidor. En este caso se realizó un modelo de sitio web.  
+- **Uxpressia**: Elaboración de User Persona, Empathy Maps, Journey Maps e Impact Maps.  
+  [https://uxpressia.com/](https://uxpressia.com/)  
+- **Miro**: Para los As-Is y To-Be Scenario Maps.  
+  [https://miro.com/](https://miro.com/)  
+- **Figma**: Elaboración de Wireframes, Mock-ups y Prototypes de nuestra Landing Page y Web Application.  
+  [https://www.figma.com/](https://www.figma.com/)  
+- **Lucidchart**: Elaboración de Wireflows y User Flows.  
   [https://www.lucidchart.com/](https://www.lucidchart.com/)
 
-### Desarrollo de Software
-- **GitHub**: Control de versiones, colaboración y almacenamiento de código. Uso de GitFlow para flujo de trabajo ordenado.  
-  [https://github.com/](https://github.com/)
-- **HTML**: Estructura de contenido de Landing Page y vistas principales.  
-  [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-- **CSS**: Diseño visual y estética basada en Material Design.  
-  [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- **JavaScript**: Interactividad, validaciones y consumo de servicios externos.  
+### Software Development
+- **GitHub**: Plataforma utilizada para control de versiones, colaboración y almacenamiento del código fuente del proyecto. Se aplicó GitFlow para mantener un flujo de trabajo ordenado.  
+  [https://github.com/](https://github.com/)  
+- **HTML**: Estructura del contenido de la Landing Page y vistas principales.  
+  [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)  
+- **CSS**: Diseño visual del sitio, respetando Material Design y estilos personalizados.  
+  [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)  
+- **JavaScript**: Implementación de lógica del lado del cliente, validaciones, interacciones y consumo de servicios externos.  
   [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-### Pruebas de Software
-- **Gherkin**: Define criterios de aceptación y escenarios de prueba en lenguaje natural.  
+### Software Testing
+- **Lenguaje Gherkins**: Para definir criterios de aceptación y escenarios de prueba en lenguaje natural, facilitando la comprensión de desarrolladores y usuarios.  
   [https://profile.es/blog/que-es-gherkin/](https://profile.es/blog/que-es-gherkin/)
 
-### Documentación de Software
-- **Lucidchart**: Diagramas UML y de base de datos.  
-  [https://www.lucidchart.com/](https://www.lucidchart.com/)
-- **Structurizr**: Documenta la arquitectura bajo modelo C4 (Context, Container, Component, Code).  
+### Software Documentation
+- **LucidChart**: Diagramas UML y de Base de Datos.  
+  [https://www.lucidchart.com/](https://www.lucidchart.com/)  
+- **Structurizr**: Documentación de arquitectura bajo modelo C4 (Context, Container, Component, Code).  
   [https://structurizr.com/](https://structurizr.com/)
 
----
+## 5.1.3. Source Code Style Guide & Conventions
+Se adoptaron guías de estilo estándar en inglés para cada lenguaje empleado:  
+- HTML/CSS: Google HTML/CSS Style Guide  
+- JavaScript: Google JavaScript Style Guide, MDN Guidelines  
 
-## 5.1.3. Guías de Estilo y Convenciones de Código Fuente
-- **HTML/CSS**: Google HTML/CSS Style Guide  
-- **JavaScript**: Google JavaScript Style Guide y MDN Guidelines  
-- Garantiza legibilidad, coherencia y facilidad de mantenimiento en todo el código del proyecto.
+Esto asegura legibilidad, coherencia y facilidad de mantenimiento en todo el código del proyecto.
 
----
+## 5.1.4. Software Deployment Configuration
+La gestión del código fuente del proyecto **Influmatch** se realizó utilizando GitHub. Para la publicación y despliegue de la Landing Page, se empleó GitHub Pages, que permite una visualización directa desde el repositorio principal.
 
-## 5.1.4. Configuración de Despliegue de Software
-- **GitHub**: Gestión del código fuente de **Influmatch**.  
-- **GitHub Pages**: Publicación y despliegue de la Landing Page directamente desde el repositorio.
+Para el desarrollo y despliegue de la Landing Page de **Influmatch** se han utilizado las siguientes herramientas:
 
-### Herramientas usadas en el despliegue
-- **HTML**: Estructura de contenido visual y semántico.  
-- **CSS**: Estilos, colores, distribución y diseño gráfico para una interfaz atractiva.  
-- **JavaScript**: Dinamismo e interactividad en formularios, navegación y eventos de usuario.
+- **HTML**: Lenguaje de marcado para estructurar el contenido visual y semántico de la Landing Page (encabezados, párrafos, botones, formularios, etc.).  
+- **CSS**: Lenguaje de estilos para dar formato, color, distribución y diseño gráfico, logrando una interfaz atractiva e interactiva.  
+- **JavaScript**: Añade interactividad y dinamismo a los componentes de la Landing Page, como validaciones en formularios, navegación fluida y respuestas a eventos del usuario.
+
+**Link para la visualización de la Landing Page:**
 
 
 ## 5.2 Landing Page, Services & Applications Implementation
