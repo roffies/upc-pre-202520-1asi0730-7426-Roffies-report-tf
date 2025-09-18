@@ -362,15 +362,31 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 
 # User Persona del Primer segmento objetivo
 
-| **Name** | **Type** | **Age** | **Gender** | **Location** | **Vehicle** |
-|----------|----------|---------|------------|--------------|-------------|
-| Sebastián de Las Casas | Conductor Particular | 21 años | Masculino | Lima | Auto sedán |
+# 2.3.1. User Persona – Conductor
+
+| **NAME** | Sebastián de Las Casas |
+|----------|-------------------------|
+| **TYPE** | Conductor Particular |
+
+| **Demographic** | **Details** |
+|-----------------|-------------|
+| **Age** | 21 años |
+| **Gender** | Masculino |
+| **Location** | Lima |
+| **Vehicle** | Auto sedán |
+
 | **Goals** | **Quote** |
-| - Mantener su vehículo en óptimas condiciones con chequeos cada 6 meses o 1 año. <br> - Conocer con claridad qué se hace en cada mantenimiento. <br> - Recibir asistencia rápida en emergencias. | *"Es bueno saber qué le hacen a mi carro en el mantenimiento y tener alertas cuando toca revisar algo."* |
+|-----------|-----------|
+| - Mantener su vehículo en óptimas condiciones con chequeos cada 6 meses o 1 año. <br> - Conocer con claridad qué se hace en cada mantenimiento. <br> - Recibir asistencia rápida en caso de emergencia. | *"Es bueno saber qué le hacen a mi carro en el mantenimiento y tener alertas cuando toca revisar algo."* |
+
 | **Background** |
+|----------------|
 | Sebastián eligió su primer taller buscando en Google, pero actualmente confía más en talleres oficiales. No suele comparar precios ni buscar varias opciones: prefiere regresar siempre al mismo taller. En caso de emergencia, llama directamente al taller más cercano. |
+
 | **Motivations** | **Frustrations** |
+|-----------------|------------------|
 | - Confianza en talleres oficiales. <br> - Alertas de mantenimiento (kilometraje, revisiones, etc.). <br> - Transparencia en servicios y precios. <br> - Rapidez en la asistencia. | - No compara precios, por lo que no sabe si paga justo. <br> - Diagnósticos poco claros en algunos casos. <br> - Falta de opciones centralizadas para revisar talleres. |
+
 
 
 User Persona del Segundo segmento objetivo:
