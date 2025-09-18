@@ -13,28 +13,35 @@ En esta sección, se presentará el sprint #1 con la versión inicial del trabaj
 | Sprint 1  | Date  | Time  | Location  | Prepared By  | Attendees  |
 |---|---|---|---|---|---|
 | 1  | 12/9/2025  | 21:00  | Reunión mediante Google Meet  |   |   |
-| Sprint 1 Goal  | Sprint 1 Velocity  | Sum of Story Points  |
+| Sprint 1 Goal  | Sprint 1 Velocity  | Sum of Story Points  | Aspectos Técnicos  |
 |---|---|---|
-| Elaborar y diseñar el landing page y documentación inicial para la aplicación ROFFIES | 12  | 12  |
+| Elaborar y diseñar el landing page y documentación inicial para la aplicación ROFFIES | 12  | 12  | HTML5, CSS3, JS, Figma, Vue, Primevue  |
 
 
-#### 5.2.1.2 Sprint Backlog
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+
+#### 5.2.1.3 Sprint Backlog 1
 Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
 
 
-#### 5.2.1.3 Development Evidence for Sprint Review
+#### 5.2.1.4 Development Evidence for Sprint Review
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del primer Sprint: Landing Page.
 
 A continuación, se presentan los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó para el desarrollo del proyecto.
 
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review
+| Repository | Branch | Commit ID | Message | Body | Commit Date  |
+|---|---|---|---|---|---|
+| Roffies | 12/9/2025  | 21:00  | Reunión mediante Google Meet  |   |   |
+
+#### 5.2.1.5 Testing Suite Evidence for Sprint Review
 No aplica a primer sprint y desarrollo de Landing Page.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6 Execution Evidence for Sprint Review
 Se incluyen capturas detalladas de la ejecución de la Landing Page de la aplicación como evidencia.
 La Landing Page es compuesta por varias secciones que se presentan en las capturas a continuación.
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1. Services Documentation Evidence for Sprint Review
 No aplica a primer sprint y desarrollo de Landing Page.
 
 
