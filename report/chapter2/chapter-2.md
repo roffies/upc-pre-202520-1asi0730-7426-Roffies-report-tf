@@ -291,21 +291,21 @@ imagen
 
 **Entrevista N°1:**
 
-**Entrevistado:** 
+**Entrevistado:** Giancarlo Castañeda
 
-**Sexo:** 
+**Sexo:** Masculino
 
-**Edad:** 
+**Edad:** 23
 
-**Inicio de la Entrevista:** 
+**Inicio de la Entrevista:** 0:00
 
-**Duración de la Entrevista:** 
+**Duración de la Entrevista:** 7:07
 
-imagen
+<img width="2280" height="724" alt="image" src="https://github.com/user-attachments/assets/3c9a38f1-f9ca-462b-aca5-ce680179ae1f" />
 
-**Resumen de la Entrevista:** 
+**Resumen de la Entrevista:** RM AUTOMOTRIZ es un taller con 8 años de experiencia que ofrece mecánica general y servicios eléctricos básicos. Actualmente capta clientes principalmente por recomendaciones, ubicación y un uso limitado de redes sociales, pero reconoce la importancia de fortalecer su presencia digital. El taller enfrenta problemas de seguimiento, ya que muchos clientes no regresan por falta de recordatorios, y aún maneja cotizaciones de forma manual. Ven con interés la implementación de herramientas como agenda en línea, alertas de mantenimiento y un botón SOS para emergencias, ya que mejorarían la organización, fidelización y captación de clientes. Para afiliarse a una plataforma como Roffies consideran clave la confianza, la visibilidad y costos razonables, y estarían dispuestos a pagar una suscripción premium siempre que garantice mayor exposición, acceso a clientes verificados y beneficios adicionales como estadísticas y recordatorios automatizados
 
-**Enlace:** 
+**Enlace:** https://youtu.be/SmuCdvWBeUU
 
 **Entrevista N°2:**
 
@@ -360,11 +360,7 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 
 ### 2.3.1. User Personas
 
-# User Persona del Primer segmento objetivo
-
-# 2.3.1. User Persona – Conductor
-
-# 2.3.1. User Persona – Conductor
+User Persona del Primer Segmento objetivo:
 
 | **Name** | **Type** | **Age** | **Gender** | **Location** | **Vehicle** |
 |----------|----------|---------|------------|--------------|-------------|
@@ -383,8 +379,31 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 | - Confianza en talleres oficiales. <br> - Alertas de mantenimiento (kilometraje, revisiones, etc.). <br> - Transparencia en servicios y precios. <br> - Rapidez en la asistencia. | - No compara precios, por lo que no sabe si paga justo. <br> - Diagnósticos poco claros en algunos casos. <br> - Falta de opciones centralizadas para revisar talleres. |
 
 
-
 User Persona del Segundo segmento objetivo:
+
+| **NAME** | RM Automotriz |
+|----------|----------------|
+| **TYPE** | Taller de Mecánica General |
+
+| **Demographic** | **Details** |
+|-----------------|-------------|
+| **Años de experiencia** | 8 |
+| **Servicios** | Mecánica general, servicios eléctricos básicos |
+| **Ubicación** | Lima |
+| **Clientes actuales** | Captados por recomendaciones, ubicación y redes sociales limitadas |
+
+| **Goals** | **Quote** |
+|-----------|-----------|
+| - Captar más clientes de forma constante. <br> - Fidelizar a los que ya atendieron. <br> - Digitalizar procesos de agenda y cotización. <br> - Aumentar visibilidad en el mercado. | *"Necesitamos más exposición y herramientas digitales para organizarnos y no perder clientes."* |
+
+| **Background** |
+|----------------|
+| RM Automotriz es un taller con 8 años en el mercado. Maneja cotizaciones manualmente y pierde clientes porque no tienen recordatorios. Reconocen la necesidad de digitalizarse y ven con interés herramientas como agenda online, botón SOS y estadísticas para diferenciarse. |
+
+| **Motivations** | **Frustrations** |
+|-----------------|------------------|
+| - Acceso a clientes verificados. <br> - Mayor visibilidad digital. <br> - Herramientas para organizar agenda y cotizaciones. <br> - Fidelización a través de recordatorios automáticos. | - Falta de recordatorios hace que los clientes no regresen. <br> - Cotizaciones manuales generan errores y demoras. <br> - Uso limitado de redes sociales limita alcance. |
+
 
 
 ### 2.3.2. User Task Matrix
@@ -403,8 +422,19 @@ User Persona del Segundo segmento objetivo:
 
 ---
 
-## Perfil 2: Taller mecánico  
 
+## Perfil 1: Taller Mecanico  
+
+| **User Task** | **Frequency** | **Importance** |
+|---------------|---------------|----------------|
+| Atender clientes que llegan por recomendación o ubicación | Often | High |
+| Gestionar cotizaciones manualmente (papel/WhatsApp) | Often | High |
+| Hacer seguimiento a clientes para que regresen | Rarely | High |
+| Publicar en redes sociales para captar clientes | Sometimes | Medium |
+| Responder llamadas o mensajes de emergencia | Sometimes | Medium |
+| Coordinar repuestos con proveedores | Sometimes | Medium |
+| Registrar historial de clientes o servicios realizados | Rarely | Medium |
+| Evaluar costos y pagos de servicios | Often | High |
 
 
 
@@ -422,6 +452,13 @@ User Journey Mapping del Primer segmento objetivo:
 
 User Journey Mapping Segundo segmento objetivo:
 
+| Fase | User Goals | TouchPoints | Customer Thoughts | Experience | Ideas/Opportunities |
+|------|------------|-------------|-------------------|------------|---------------------|
+| **Captación** | Atraer más clientes de forma constante | Recomendaciones, ubicación, redes sociales limitadas | “Dependemos mucho del boca a boca.” | Neutral 🙂 | Plataforma que brinde visibilidad digital y acceso a clientes verificados |
+| **Cotización** | Dar precios claros y rápidos | Cotizaciones manuales (papel, WhatsApp) | “Esto nos hace perder tiempo.” | Frustración 😣 | Cotizador en línea automatizado que estandarice precios |
+| **Servicio** | Brindar un buen mantenimiento o reparación | Atención presencial en el taller | “Espero que el cliente quede satisfecho.” | Serenidad 😌 | Agenda digital y registro automático del servicio realizado |
+| **Seguimiento** | Lograr que el cliente regrese al taller | Llamadas esporádicas, casi sin recordatorios | “Los clientes se olvidan de regresar.” | Indecisión 😕 | Alertas automáticas de mantenimiento y kilometraje |
+| **Fidelización** | Diferenciarse y generar confianza a largo plazo | Contacto directo, recomendaciones | “Necesitamos destacar frente a la competencia.” | Pensiveness 🤔 | Reportes de desempeño, reseñas verificadas y programa de fidelización |
 
 ### 2.3.4. Empathy Mapping
 
@@ -441,6 +478,17 @@ Empathy Mapping del Priemer segmento objetivo:
 
 Empathy Mapping del Segundo segmento objetivo:
 
+| **1. WHO are we empathizing with?** | RM Automotriz, taller con 8 años de experiencia que busca digitalizarse, captar más clientes y fidelizarlos mediante herramientas modernas. |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **2. What do they need to DO?** | - Captar clientes nuevos de manera constante <br> - Fidelizar a los clientes actuales con recordatorios <br> - Gestionar agenda y cotizaciones en línea <br> - Mejorar su visibilidad digital |
+| **3. What do they SEE?** | - Competidores con mayor presencia en redes sociales <br> - Clientes que no regresan por falta de recordatorios <br> - Procesos manuales que generan demoras |
+| **4. What do they SAY?** | - “Necesitamos más exposición digital.” <br> - “Los clientes se olvidan de volver al taller.” <br> - “Manejamos todo manual y eso nos quita tiempo.” |
+| **5. What do they DO?** | - Atienden clientes por recomendación o ubicación <br> - Elaboran cotizaciones manuales (papel/WhatsApp) <br> - Publican ocasionalmente en redes sociales <br> - Responden emergencias puntuales |
+| **6. What do they HEAR?** | - Opiniones de clientes satisfechos pero sin seguimiento <br> - Comentarios sobre precios de talleres oficiales <br> - Recomendaciones de colegas y vecinos |
+| **7. What do they THINK and FEEL?** | - Se frustran al perder clientes por falta de recordatorios <br> - Sienten que necesitan digitalizarse para competir <br> - Valoran la confianza y visibilidad que les pueda dar una plataforma como Roffies |
+| **PAINS** | - Procesos manuales poco eficientes <br> - Poca presencia digital <br> - Pérdida de clientes recurrentes |
+| **GAINS** | - Acceso a clientes verificados y constantes <br> - Mayor exposición digital <br> - Organización y estadísticas para mejorar el negocio |
+
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -459,6 +507,12 @@ En esta sección describimos el proceso que seguimos para construir los As-Is Sc
 
 **As-Is Scenario Mapping – Talleres mecánicos**
 
+| **Steps** | Captar clientes | Cotizar servicios | Atender en taller | Seguimiento post-servicio |
+|-----------|-----------------|------------------|------------------|---------------------------|
+| **Phases** | Llegan por recomendaciones o cercanía | Cotizan manualmente en papel o WhatsApp | Brindan servicio técnico | Poca o nula comunicación posterior |
+| **Doing** | - Publican poco en redes. <br> - Confían en el boca a boca. | - Escriben precios manuales. <br> - Hacen cálculos en el momento. | - Atienden reparaciones básicas y generales. | - No envían recordatorios. <br> - Solo esperan que el cliente vuelva por iniciativa propia. |
+| **Thinking** | “Necesitamos más visibilidad.” | “Esto nos hace perder tiempo y precisión.” | “Debemos diferenciarnos.” | “Estamos perdiendo clientes por falta de seguimiento.” |
+| **Feeling** | Preocupación por poca captación | Frustración con procesos manuales | Orgullo por su experiencia técnica | Ansiedad por no fidelizar clientes |
 
 
 
