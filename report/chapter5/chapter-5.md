@@ -1,5 +1,3 @@
-# 1ASI0730-2520-7426-G2
-
 # 5.1. Software Configuration Management
 
 A continuación, se presentan las decisiones y convenciones que permitirán mantener la consistencia durante el ciclo de vida.
