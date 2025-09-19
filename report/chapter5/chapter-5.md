@@ -131,4 +131,4 @@ Se incluye la evidencia de despliegue del Landing Page en la plataforma Github P
 Durante el transcurso de este sprint, todos los miembros participaron de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
 equipo durante el Sprint 1:
 
-![Alt text](../../assets/collab.jpg)
+![Alt text](../../assets/collab1.jpg)
