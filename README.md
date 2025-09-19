@@ -5,7 +5,7 @@
 A continuación, se presentan las decisiones y convenciones que permitirán mantener la consistencia durante el ciclo de vida.
 
 ## 5.1.1. Software Development Environment Configuration
-En esta sección se incluyen los links de las aplicaciones y productos de software utilizados durante el ciclo del proyecto **Influmatch**, en los programas que se usaron para colaborar en el desarrollo del producto digital. Para ello se clasifican en las siguientes secciones:
+En esta sección se incluyen los links de las aplicaciones y productos de software utilizados durante el ciclo del proyecto **SmartCare**, en los programas que se usaron para colaborar en el desarrollo del producto digital. Para ello se clasifican en las siguientes secciones:
 
 ## 5.1.2. Source Code Management
 
@@ -57,9 +57,9 @@ Se adoptaron guías de estilo estándar en inglés para cada lenguaje empleado:
 Esto asegura legibilidad, coherencia y facilidad de mantenimiento en todo el código del proyecto.
 
 ## 5.1.4. Software Deployment Configuration
-La gestión del código fuente del proyecto **Influmatch** se realizó utilizando GitHub. Para la publicación y despliegue de la Landing Page, se empleó GitHub Pages, que permite una visualización directa desde el repositorio principal.
+La gestión del código fuente del proyecto **SmartCare** se realizó utilizando GitHub. Para la publicación y despliegue de la Landing Page, se empleó GitHub Pages, que permite una visualización directa desde el repositorio principal.
 
-Para el desarrollo y despliegue de la Landing Page de **Influmatch** se han utilizado las siguientes herramientas:
+Para el desarrollo y despliegue de la Landing Page de **SmartCare** se han utilizado las siguientes herramientas:
 
 - **HTML**: Lenguaje de marcado para estructurar el contenido visual y semántico de la Landing Page (encabezados, párrafos, botones, formularios, etc.).  
 - **CSS**: Lenguaje de estilos para dar formato, color, distribución y diseño gráfico, logrando una interfaz atractiva e interactiva.  
