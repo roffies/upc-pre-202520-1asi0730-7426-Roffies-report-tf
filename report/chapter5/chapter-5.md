@@ -102,7 +102,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 A continuación, se presentan los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó para el desarrollo del proyecto.
 
-![Alt text](assets/dev1.jpg)
+![Alt text](../../assets/dev1.jpg)
 
 | Repository | Branch | Commit ID | Message | Body | Commit Date  |
 |---|---|---|---|---|---|
@@ -115,8 +115,8 @@ No aplica a primer sprint y desarrollo de Landing Page.
 Se incluyen capturas detalladas de la ejecución de la Landing Page de la aplicación como evidencia.
 La Landing Page es compuesta por varias secciones que se presentan en las capturas a continuación.
 
-![Alt text](execution/execution1.jpg)
-![Alt text](execution/execution2.jpg)
+![Alt text](../../assets/execution1.jpg)
+![Alt text](../../assets/execution2.jpg)
 
 #### 5.2.1. Services Documentation Evidence for Sprint Review
 No aplica a primer sprint y desarrollo de Landing Page.
@@ -125,10 +125,10 @@ No aplica a primer sprint y desarrollo de Landing Page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Se incluye la evidencia de despliegue del Landing Page en la plataforma Github Pages.
 
-![Alt text](assets/deploy1.jpg)
+![Alt text](../../assets/deploy1.jpg)
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, todos los miembros participaron de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del
 equipo durante el Sprint 1:
 
-![Alt text](execution/collab.jpg)
+![Alt text](../../assets/collab.jpg)
